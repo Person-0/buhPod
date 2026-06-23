@@ -24,9 +24,13 @@ The schematics are as follows:
 - View the [/PCB directory](./schematics/) for more information
 
 ### Micro SD card regulator bypass
+
 The Micro SD card reader mentioned in the BOM requires **5V** input from **VCC**, but we can only supply **3.3V** from the MCU max as we are powering it via a 18650 3.7V battery and not USB.<br>
+
 Hence, we need to bypass the voltage regulator present on board by powering the board from the following **3.3V pin**:
+
 <img src="./assets/regBypassSdCard.webp">
+
 This bypasses the onboard AMS1117 voltage regulator and is connected to MCU's `3V3_OUT` pin.<br>
 This is also mentioned in the schematic for the Micro SD Card reader.
 
