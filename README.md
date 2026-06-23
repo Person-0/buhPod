@@ -1,8 +1,6 @@
 # **buhPod**
 
-<img src="./assets/buhcat.png" width="128" style="box-shadow: 1px 1px 5px black;">
-
-<br>
+<img src="./assets/buhcat.png" width="128">
 
 A battery-powered music player that supports 3.5mm wired earphones.
 
@@ -12,5 +10,5 @@ A battery-powered music player that supports 3.5mm wired earphones.
 ## CAD Design
 - View [CAD directoy](./cad/) for more information
 
-## PCB Schematics
-- View [PCB directory](./pcb/) for more information
+## Schematics
+- View [PCB directory](./schematics/) for more information
