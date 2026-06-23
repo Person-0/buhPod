@@ -2,3 +2,6 @@
 !.gitignore
 *.xlsx
 *.env
+schematics/*.lck
+schematics/buhpod-backups
+schematics/#auto_saved_files#
