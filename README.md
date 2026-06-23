@@ -43,6 +43,7 @@ This is also mentioned in the schematic for the Micro SD Card reader.
 
 ## References
 - https://www.waveshare.com/rp2350-lcd-0.96.htm
+- https://files.waveshare.com/wiki/RP2350-LCD-0.96/RP2350_LCD_0.96_Schematic.pdf
 - https://learn.adafruit.com/adafruit-pcm5122-i2s-dac/downloads
 - https://www.instructables.com/Raspberry-Pi-Pico-Micro-SD-Card-Interface/  
 - https://circuitdigest.com/microcontroller-projects/raspberry-pi-pico-interfacing-with-rotary-encoder
