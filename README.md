@@ -15,13 +15,20 @@ Total cost is **~25$**
 
 ## Schematics
 
+Done in KiCAD: [Schematics folder](./schematics/)
+
+Since there is no PCB (these are all components wired/soldered together), there are no PCB files. <br>
+However, you can still open the schematics in KiCAD, by:
+- Opening KiCAD
+- Clicking **File** (top left) >> **Open Project**
+- Navigating to the the repository's saved destination,
+- Opening **/schematics** directory
+- Selecting the file `buhpod.kicad_pro`
+
+This will open the schematics in KiCAD for easier viewing!<br>
 The schematics are as follows:
 
 <img src="./assets/schematics_pic.png" width="512">
-
-- These can be opened using [KiCAD](https://www.kicad.org/) for proper viewing.
-- The PCB part is blank as these are meant to be soldered together directly.
-- View the [/PCB directory](./schematics/) for more information
 
 ### Micro SD card regulator bypass
 
