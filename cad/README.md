@@ -6,6 +6,7 @@
 
 This is a **rough assembly** of components I made after hard labour. <br>
 It is only for reference and will be enclosed in a cuboidal enclosure that is current work-in-progress.
+> [Click to view **`roughAssembly.stl`**](./roughAssembly.stl)
 
 <img src="../assets/roughAssembly (1).png">
 <img src="../assets/roughAssembly (2).png">
