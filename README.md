@@ -2,7 +2,7 @@
 
 <img src="./assets/buhcat.png" width="128">
 
-A battery-powered music player that supports 3.5mm wired earphones, made under 25$.
+A portable, battery-powered music player that supports 3.5mm wired earphones, made under 25$.
 
 ## Bill Of Materials
 \> View [bom.csv](./bom.csv) <br>
