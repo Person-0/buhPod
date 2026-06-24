@@ -12,6 +12,8 @@ Total cost is **~25$**
 - WIP
 - View [/CAD directoy](./cad/) for more information
 
+> **Rough assembly**
+> <img src="./assets/roughAssembly (2).png">
 
 ## Schematics
 
