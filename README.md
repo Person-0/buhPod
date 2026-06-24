@@ -5,7 +5,7 @@
 A portable, battery-powered music player that supports 3.5mm wired earphones, made under 25$.
 
 ## Bill Of Materials
-\> View [bom.csv](./bom.csv) <br>
+\> View [bom.csv](./bom.csv) (WIP)<br>
 Total cost is **~25$**
 
 ## CAD Design
