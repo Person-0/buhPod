@@ -2,6 +2,10 @@
 !.gitignore
 *.xlsx
 *.env
-schematics/*.lck
-schematics/buhpod-backups
-schematics/#auto_saved_files#
+schematics_old/*.lck
+schematics_old/buhpod-backups
+schematics_old/#auto_saved_files#
+PCB/*.lck
+PCB/buhPod_PCB/buhPod_PCB-backups
+PCB/buhPod_PCB/#auto_saved_files#
+PCB/buhPod_PCB/~*
